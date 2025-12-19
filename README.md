@@ -1,1 +1,1 @@
-# Customer_Behavior_Analysis-using-sql_python_power-BI
+# Customer Behavior Analysis using sql, python & power-BI
